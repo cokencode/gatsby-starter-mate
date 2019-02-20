@@ -3368,6 +3368,7 @@ cwebp-bin@^4.0.0:
 cxs@^6.2.0:
   version "6.2.0"
   resolved "https://registry.yarnpkg.com/cxs/-/cxs-6.2.0.tgz#f11ca3bdaef154b93bdadca5df70f2cb3e37ca24"
+  integrity sha512-RGatb1BUwVMBzV8DRo9Kapc55bdGfAxMcukVk+ZzE3Ts8xaTve0GVz730kBDxjhEBU2LK+RPuAcjZb00Q3O24w==
 
 cyclist@~0.2.2:
   version "0.2.2"
@@ -5235,6 +5236,13 @@ gatsby-link@^2.0.6:
     "@reach/router" "^1.1.1"
     "@types/reach__router" "^1.0.0"
     prop-types "^15.6.1"
+
+gatsby-plugin-cxs@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-cxs/-/gatsby-plugin-cxs-2.0.6.tgz#120343f8fe51f360f325d51cc2f667c1bdfade3a"
+  integrity sha512-J20csFRo+V9ymx8/+pY1PDDg4IhDmj/bmz/o65s9L5rc5/Oy89SszlMpnWRw+Mkl9J8bGAGVCk0/9eYdncZC2w==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
 
 gatsby-plugin-google-analytics@^2.0.9:
   version "2.0.9"
