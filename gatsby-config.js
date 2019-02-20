@@ -18,6 +18,7 @@ const plugins = [
     options: manifestConfig,
   },
   'gatsby-plugin-styled-components',
+  'gatsby-plugin-cxs',
   {
     resolve: 'gatsby-plugin-google-fonts',
     options: {
